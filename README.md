@@ -105,8 +105,15 @@
 
 ## 📈 关注度趋势
 
-[![Stargazers over time](https://starchart.cc/datawhalechina/so-large-lm.svg?variant=adaptive)](https://starchart.cc/datawhalechina/so-large-lm)
+## Star History
 
+<a href="https://www.star-history.com/?repos=datawhalechina%2Fso-large-lm&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=datawhalechina/so-large-lm&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=datawhalechina/so-large-lm&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=datawhalechina/so-large-lm&type=date&legend=top-left" />
+ </picture>
+</a>
 ---
 <div align="center">
   <b>🌟 如果这个项目对你有帮助，请给我们一个 Star！</b>
